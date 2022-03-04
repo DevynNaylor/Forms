@@ -1,0 +1,50 @@
+.Header {text-align: right;
+    
+    border: 1px solid gray;
+
+    border-width: 2cm;
+    
+    border-style: hidden;
+
+    background-color: white;
+
+    
+}
+.menu {text-align: center;
+    
+    border: 1px solid gray;
+    
+    border-style: hidden;
+   
+    background-color: white;
+
+    margin-left: 750px; margin-right: 750px;
+
+    padding: 20px;
+
+
+}
+
+h1 {text-align: center;
+
+    border-style: hidden;
+
+}
+
+body {background-color: skyblue;
+}
+
+.email {padding-bottom: 15px;
+}
+
+.username {padding-bottom: 15px;
+}
+
+.password {padding-bottom: 15px;
+}
+
+.confirmpassword {padding-bottom: 15px;
+}
+
+.submit{padding-bottom: 15px;
+}
